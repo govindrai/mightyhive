@@ -1,0 +1,3 @@
+[submodule "mightyhive-localStorage"]
+	path = mightyhive-localStorage
+	url = https://github.com/govindrai/mightyhive-localStorage
